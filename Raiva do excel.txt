@@ -1,0 +1,3 @@
+a semana inteira revisando o código pra descobrir pq não tava imprimindo o CPF
+e dps descobrir q o erro não era do código a planilha q tinha dado um erro louco com a parte do CPF 
+só pra expressar minha raiva msm ;-; 
